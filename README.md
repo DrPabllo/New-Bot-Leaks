@@ -9,12 +9,6 @@ Zielgruppe: Entwicklerteam, Management, Tester.
 Nutzung: Austausch und Sammlung teaminterner Informationen. Kein öffentlicher Zugang.
 
 Funktionen & Inhalte
-Leaks & Early Builds: Veröffentlichung von Screenshots, Code-Ausschnitten, Funktionsvorschauen.
+Leaks & Early Builds: Veröffentlichung von Screenshots, & Funktionsvorschauen.
 
 Changelog: Protokoll aller Änderungen, Hotfixes und neuen Features.
-
-Diskussion: Kommentarfunktion für Teammitglieder zum Feedback, Fehlerberichten und Vorschlägen.
-
-Ressourcen: Links zu Dokumentationen, API-Spezifikationen, Datenschutzrichtlinien.
-
-Rechte & Zugriff: Nur berechtigte Teammitglieder dürfen posten und kommentieren.
