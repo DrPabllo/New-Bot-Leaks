@@ -1,14 +1,16 @@
 # Projekt: New-Bot-Leaks
-Ein internes Leak- und Info-Board für das Entwicklerteam – alle relevanten Informationen, Testergebnisse und geplanten Features zum neuen Bot zentral dokumentiert.
+Hey Community! Wenn du hier landest, bist du wahrscheinlich neugierig auf unseren neuen Bot. New-Bot-Leaks ist deine zentrale Stelle für alle Infos, Vorschauen und spannenden Einblicke in die Entwicklung. Unser Team teilt hier regelmäßig Updates, damit du immer up-to-date bleibst – ohne Spoiler, die alles verraten.​
 
-Überblick
-Projektziel: Interne Plattform zur Veröffentlichung, Diskussion und Dokumentation von Leaks, neuen Features und Test-Insights unseres Bots.
+# Was ist New-Bot-Leaks?
+Das Projekt dreht sich um die sichere und strukturierte Freigabe von Bot-Details. Es ist wie ein internes Board, wo wir Leaks, Features und Tipps posten, um die Community einzubinden. Statt trockener Tech-Dokus bekommst du hier visuelle Vorschauen, Roadmaps und Erklärungen zu neuen Funktionen. So verstehst du, wie der Bot tickt und was als Nächstes kommt – ideal für Gamer, Entwickler oder alle, die Bots in Communities wie Discord nutzen.​
 
-Zielgruppe: Entwicklerteam, Management, Tester.
+# Typische Inhalte für dich
+Features & Vorschauen: Erste Looks auf coole neue Tools, wie smarte Antworten oder Integrationen.
 
-Nutzung: Austausch und Sammlung teaminterner Informationen. Kein öffentlicher Zugang.
+Changelogs: Was hat sich geändert? Bugfixes, Verbesserungen und warum sie wichtig sind.
 
-Funktionen & Inhalte
-Leaks & Early Builds: Veröffentlichung von Screenshots, & Funktionsvorschauen.
+Leaks und Teaser: Screenshots oder kurze Demos, die Lust auf mehr machen – immer kontrolliert und ohne sensible Daten.
 
-Changelog: Protokoll aller Änderungen, Hotfixes und neuen Features.
+Tipps & Diskussionen: Dein Feedback zählt! Wir teilen Ressourcen zu APIs und teilen Best Practices für Bot-Nutzung.
+
+Alles ist so aufgebaut, dass du schnell findest, was dich interessiert, ohne dich durch endlose Texte zu wühlen.
